@@ -20,7 +20,7 @@ async def test():
 async def joinv():
     await bot.join_voice_channel(id(var))
 
-bot.run("MzI3MTM5MDMzNTAxMjcwMDE2.DCw_hw.kHvl6E8reHjnA1VTLeA0bxEWR2s")
+bot.run("""key""")
 
 
 
